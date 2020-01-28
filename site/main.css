@@ -1,0 +1,41 @@
+html {
+  height: 100%;
+  font-family: 'Roboto', sans-serif;
+}
+
+a {
+  color: #306998;
+}
+
+.main-ctr {
+  width: 1000px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.title {
+  background-color: #FFD43B;
+  margin-top: 1rem;
+  text-align: center;
+  border: 1px black solid;
+}
+
+.content {
+  margin-top: 2rem;
+}
+
+ol > li {
+  margin-top: 1.8rem;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.text {
+  font-size: 1.3rem;
+  margin: 1rem 0;
+}
+
+.github {
+  font-size: 1.6rem;
+}
